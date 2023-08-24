@@ -53,7 +53,7 @@ int	ft_putnbr(int nb)
 {
 	size_t	count;
 	long	number;
-	int		tmp;
+	int	tmp;
 
 	count = 0;
 	number = nb;
